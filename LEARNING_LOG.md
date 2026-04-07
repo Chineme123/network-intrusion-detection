@@ -1,3 +1,5 @@
+# Learning_log.md
+
 ## April 8 2026
 Hours: 2
 Activity: Read AIMA Chapter 1 - Four approaches to AI and the standard model

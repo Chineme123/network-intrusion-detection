@@ -1,6 +1,7 @@
 # QUESTIONS.md
 
 ---
+### Compiled questions Day 1
 
 1. Is the Turing test not passed everyday with modern AI? `[Discussed]` `[Book - Ch.26]`
 
